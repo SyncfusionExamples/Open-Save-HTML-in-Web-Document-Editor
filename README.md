@@ -1,6 +1,6 @@
-# Open-Save-HTML-in-Web-Document-Editor
+# Open Save HTML in Web Document Editor
 
-The Syncfusion Document Editor is a comprehensive word processing component that allows users to create, edit, and format documents directly in the browser. This implementation appears to be part of the EJ2 (Essential JS 2) suite of UI components.
+The Syncfusion® Document Editor is a comprehensive word processing component that provides a rich, Word-like viewing and editing experience directly in the browser. It enables users to create, edit, view, and print Word documents (DOCX, WordML, DOC, RTF, TXT) seamlessly within your applications. Furthermore, it can be easily integrated with server APIs to load and save documents.
 
 This repository provides a comprehensive example of how to open and save documents in HTML format using the Syncfusion® Document Editor (a.k.a Word Processor) component.
 
