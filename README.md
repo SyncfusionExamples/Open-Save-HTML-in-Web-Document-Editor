@@ -4,13 +4,13 @@ The Syncfusion® [DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-
 
 This repository provides a comprehensive example of how to open and save documents in HTML format using the Syncfusion® DOCX Editor.
 
-# Resources
+# Resources 
 
-- **Product page:**   [Syncfusion® React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+- **Product page:**  [Syncfusion® Javascript DOCX Editor](https://www.syncfusion.com/javascript-ui-controls/js-docx-editor) 
 
-- **Documentation:**   [Syncfusion® React DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/react/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+- **Documentation:**  [Syncfusion® DOCX Editor](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview) 
 
-- **Online demo:**   [Syncfusion® React DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/react/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+- **Online demo:**  [Syncfusion® DOCX Editor - Demo](https://ej2.syncfusion.com/demos/) 
 
 # Support and feedback 
 
